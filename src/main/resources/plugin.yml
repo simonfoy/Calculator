@@ -1,4 +1,4 @@
-name: Simple Calculator
+name: Calculator
 version: '${project.version}'
 main: me.simonfoy.calculator.Calculator
 api-version: 1.19
