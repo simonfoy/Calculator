@@ -1,0 +1,8 @@
+name: Simple Calculator
+version: '${project.version}'
+main: me.simonfoy.calculator.Calculator
+api-version: 1.19
+authors: [ Simon ]
+website: simonfoy.me
+commands:
+  calc:
